@@ -114,4 +114,4 @@ On mettra wrappera notre page dans un ``SingleChildScrollView`` ce qui rendra pl
 ### Test d'échec sur l'app flutter : 
 ![](/image/erreur_pop.png)
 
-Detail : L'ensemble des tests ont été réalisés avec ``windows desktop``. Il sera peut-être nécessaire adapter la configuration pour le lancer sur un autre device.
+Detail : L'ensemble des tests ont été réalisés avec ``windows desktop``. Il sera peut-être nécessaire d'adapter la configuration pour le lancer sur un autre device.
